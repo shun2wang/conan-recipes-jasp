@@ -1,10 +1,7 @@
 sources:
-  "2.0.99.cci.20260225":
-    url: "https://github.com/jasp-stats/freexl/archive/b684c498e71529b2548dda0e3b50bfb41a8e3ee6.tar.gz"
-    sha256: "b2911ac835cf85dc395a88adcbf003b71b324690fade5b3130aca31e52cca1db"
-  "2.0.99.cci.20250526":
-    url: "https://github.com/jasp-stats/freexl/archive/92f31bba661129948c34b3941dd0bab28511fbb1.tar.gz"
-    sha256: "baedf906e47122fc7f53dc77b12b628fd437ff83cc7a73acfbc985c2b9fc9120"
+  "2.0.99.cci.20261009":
+    url: "https://github.com/shun2wang/freexl_jasp/archive/8c8890ab4c8fafc9931d78059a0132f97ee4de30.tar.gz"
+    sha256: "005419af05ef66070d1fc0a231f90b2e876a3b69c5752b2161f5ee058993d2a8"
   "2.0.0":
     url: "http://www.gaia-gis.it/gaia-sins/freexl-sources/freexl-2.0.0.tar.gz"
     sha256: "176705f1de58ab7c1eebbf5c6de46ab76fcd8b856508dbd28f5648f7c6e1a7f0"
